@@ -32,3 +32,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+# Всякие статы
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seeroy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seeroy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
