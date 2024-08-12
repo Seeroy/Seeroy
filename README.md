@@ -36,3 +36,6 @@
 # Всякие статы
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seeroy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seeroy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
